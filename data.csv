@@ -2,3 +2,4 @@ git checkout filename: Discards changes made to a specific file in the working d
 git reset HEAD filename: Unstages changes made to a specific file in the staging area that have not yet been committed.;
 git commit --amend: Combines staged changes with the previous commit, effectively allowing you to modify the most recent commit message or add additional changes.;
 git revert HEAD: Creates a new commit that undoes the changes made in the most recent commit.;
+git revert comit_id_here: Creates a new commit that undoes the changes made in the specified commit.;
