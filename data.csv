@@ -12,4 +12,4 @@ git merge --abort: Aborts the current merge operation.;
 git add remote https://repo-here: Adds a remote repository with the specified URL.;
 git remote -v: Lists all remote repositories associated with the current repository.;
 git push : Pushes local changes to a remote repository.;
-git pull 
+git pull: Fetches changes from a remote repository and merges them into the current branch.; 
