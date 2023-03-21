@@ -14,7 +14,7 @@ git add -p
 git rm filename 
 git mv oldfile newfile 
 git checkout filename
-git rest HEAD filename 
+git reset HEAD filename 
 git commit --amend 
 git revert HEAD 
 git revert comit_id_here 

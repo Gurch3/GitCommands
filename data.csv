@@ -1,0 +1,1 @@
+git checkout filename: Discards changes made to a specific file in the working directory and replaces it with the version of the file from the most recent commit.;
