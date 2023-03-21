@@ -1,0 +1,1 @@
+git config --list : When you run "git config --list", Git will list all Git configuration settings for the current level in a readable list. The list includes the configuration variables and their values.;
