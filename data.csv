@@ -1,1 +1,2 @@
 git config --list : When you run "git config --list", Git will list all Git configuration settings for the current level in a readable list. The list includes the configuration variables and their values.;
+git config --global user.name "": The command "git config --global user.name ''" sets an empty string as the value for the "user.name" configuration property in Git on your local machine. This means that when you make commits in Git, the name associated with those commits will be an empty string, rather than your actual name.;
