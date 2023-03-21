@@ -1,0 +1,31 @@
+git config -1 
+git config --global user.name ""
+git init 
+git add filename-here
+git add
+git add file*
+git status
+git commit 
+git commit -m ""
+git log 
+git show commit-id
+git diff 
+git add -p
+git rm filename 
+git mv oldfile newfile 
+git checkout filename
+git rest HEAD filename 
+git commit --amend 
+git revert HEAD 
+git revert comit_id_here 
+git branch branch_name 
+git checkout branch_name
+git branch
+git branch -d branch_name
+git merge branch_name
+git merge --abort
+git add remote http://repo-here
+git remote -v
+git remote show orgin 
+git push 
+git pull 
