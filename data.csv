@@ -5,3 +5,12 @@ git revert HEAD: Creates a new commit that undoes the changes made in the most r
 git revert comit_id_here: Creates a new commit that undoes the changes made in the specified commit.;
 git branch branch_name: : Creates a new branch with the specified name.;
 git checkout branch_name: Switches to the specified branch.;
+git branch: Lists all branches in the repository.;
+git branch -d branch_name
+git merge branch_name
+git merge --abort
+git add remote http://repo-here
+git remote -v
+git remote show orgin 
+git push 
+git pull 
