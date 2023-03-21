@@ -8,3 +8,4 @@ git status: This command displays the current state of the repository, showing w
 git commit: This command creates a new commit with the changes that are currently in the staging area.;
 git commit -m "message": This command creates a new commit with a commit message specified in quotes, avoiding the need to open a text editor.;
 git log: This command displays a list of all the commits made in the repository, showing the commit ID, author, date, and commit message.;
+git show commit-id: This command displays the details of a specific commit, including the commit message and the changes made in that commit.;
