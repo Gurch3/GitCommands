@@ -5,3 +5,4 @@ git add filename-here: This command adds a specific file to the staging area in 
 git add: This command adds all the changes made in the repository to the staging area.;
 git add file*: This command adds all the files in the current directory that start with "file" to the staging area.;
 git status: This command displays the current state of the repository, showing which files are staged, unstaged, or untracked.;
+git commit: This command creates a new commit with the changes that are currently in the staging area.;
