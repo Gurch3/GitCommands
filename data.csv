@@ -11,3 +11,4 @@ git log: This command displays a list of all the commits made in the repository,
 git show commit-id: This command displays the details of a specific commit, including the commit message and the changes made in that commit.;
 git diff: This command shows the difference between the changes made in the working directory and the changes that are currently in the staging area.;
 git add -p: This command adds changes to the staging area interactively, prompting the user for each change and allowing them to choose which changes to add.;
+git rm filename: This command removes a file from both the working directory and the repository.;
