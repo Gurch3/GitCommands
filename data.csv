@@ -3,3 +3,5 @@ git config --global user.name "": The command "git config --global user.name ''"
 git init: The "git init" command is used to initialize a new Git repository in a directory. When you run "git init" in a directory, Git creates a new repository in that directory and sets up the necessary Git files and directories, including a .git subdirectory, which contains the repository metadata.;
 git add filename-here: This command adds a specific file to the staging area in Git, preparing it to be committed.;
 git add: This command adds all the changes made in the repository to the staging area.;
+git add file*: This command adds all the files in the current directory that start with "file" to the staging area.;
+git status: This command displays the current state of the repository, showing which files are staged, unstaged, or untracked.;
