@@ -12,3 +12,4 @@ git show commit-id: This command displays the details of a specific commit, incl
 git diff: This command shows the difference between the changes made in the working directory and the changes that are currently in the staging area.;
 git add -p: This command adds changes to the staging area interactively, prompting the user for each change and allowing them to choose which changes to add.;
 git rm filename: This command removes a file from both the working directory and the repository.;
+git mv oldfile newfile: This command renames a file in the repository, updating the file in the working directory and creating a new commit with the rename operation.;
