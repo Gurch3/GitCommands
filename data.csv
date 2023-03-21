@@ -11,6 +11,5 @@ git merge branch_name: : Merges changes from the specified branch into the curre
 git merge --abort: Aborts the current merge operation.;
 git add remote https://repo-here: Adds a remote repository with the specified URL.;
 git remote -v: Lists all remote repositories associated with the current repository.;
-git remote show orgin 
-git push 
+git push : Pushes local changes to a remote repository.;
 git pull 
